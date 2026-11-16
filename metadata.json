@@ -1,0 +1,6 @@
+{
+  "name": "Voice of Customer Copilot",
+  "description": "Evidence-backed customer feedback intelligence and product decision platform for Product Managers turning messy multi-channel feedback into defensible roadmap decisions with verifiable citations and deterministic analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
